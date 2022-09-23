@@ -1,0 +1,19 @@
+{
+  "name": "@caoshouse/dcmjs-dictionary",
+  "version": "1.0.2",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "caoshouse",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.7.18"
+  },
+  "dependencies": {
+    "dcmjs": "^0.28.0",
+    "xml2js": "^0.4.23"
+  },
+  "files": ["dist/*.*"]
+}
