@@ -1,6 +1,6 @@
 {
   "name": "@caoshouse/dcmjs-dictionary",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -19,5 +19,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/caoshouse/dcmjs-dictionary"
-  },
+  }
 }
