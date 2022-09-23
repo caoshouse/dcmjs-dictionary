@@ -15,5 +15,9 @@
     "dcmjs": "^0.28.0",
     "xml2js": "^0.4.23"
   },
-  "files": ["dist/*.*"]
+  "files": ["dist/*.*"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caoshouse/dcmjs-dictionary"
+  },
 }
